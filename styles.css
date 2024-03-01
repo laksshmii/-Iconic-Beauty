@@ -1,0 +1,17 @@
+body {
+    background-image:url(img3.jpg) ;
+    background-size: cover;
+    font-weight: 400;
+   font-size: 14px;}
+
+button{
+    
+    align-items: center;
+    text-align: center;
+}
+.container{
+    background-image: url(img1.jpg);
+    background-size: cover;
+    margin-bottom: auto;
+    min-height: 100vh;
+}

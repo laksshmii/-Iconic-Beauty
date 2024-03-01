@@ -1,0 +1,11 @@
+body{
+background-image: url(img42.jpg);
+background-size: cover;
+}
+.container{
+    min-height: 100vh;
+}
+.marquee{
+    
+    animation: scroll 2s linear infinite
+}
